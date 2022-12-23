@@ -2,7 +2,7 @@ import requests,json,threading,hashlib
 import os,sys,argparse
 
 
-#path="g:\\videos\\"
+
 url = "https://api.metadefender.com/v4/hash/"
 
 headers = {
